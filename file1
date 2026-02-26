@@ -1,0 +1,14 @@
+git push -u origin <branch name> ---- uploding commits with setting-up upstream relationship
+git status                     ---- to check working dirctoary
+git show <commit id>         ------ to check committed files
+git init                  --------- change nrml floder to .git floder
+git log                   --------- check the logs and what are the commited with id,date ,author
+git add .                 --------- add to stage area its ready to commit or upload
+git add <filename>
+git add -A
+git commit -m "any mesaage"   ------ to commit files
+git --version                -----  to check the version of git
+git remote add origin "URL"  ------- connect to github local to remote repo
+git config --list           -------  to check whether username and email is assigned or not and remote repo is connected or not
+git config --global user.name "charan"  --- to assign username to git
+git config --global user.email "kattacharanvardhan17@gmail.com" --- to assign email to git 
